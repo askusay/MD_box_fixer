@@ -1,2 +1,3 @@
 # MD_box_fixer
-A collection of miscellaneous and useful scripts for molecular dynamics simulations
+
+Solves the annoying issue with proteins not being centered in MD simuation boxes, also allows the user to shift the entire simulation box and calculate PBC vectors
